@@ -91,7 +91,7 @@ Basic基本框架.
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  ="Sources/**/*"
+  s.source_files  ='Sources/Tool/*.{h,m}'
 # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
