@@ -35,6 +35,6 @@ end
 <br/>
 
 ##演示
-![image](https://github.com/hujindong007/-Basic-framework/tree/master/Basic/Basic/Assets.xcassets/Simulator%20Screen%20Shot%202017%E5%B9%B49%E6%9C%8820%E6%97%A5%20%E4%B8%8B%E5%8D%881.00.48.imageset)
+![image](https://github.com/hujindong007/-Basic-framework/blob/master/Basic/Basic/Assets.xcassets/Simulator%20Screen%20Shot%202017%E5%B9%B49%E6%9C%8820%E6%97%A5%20%E4%B8%8B%E5%8D%881.00.48.imageset/Simulator%20Screen%20Shot%202017%E5%B9%B49%E6%9C%8820%E6%97%A5%20%E4%B8%8B%E5%8D%881.00.48.png)
 
 
