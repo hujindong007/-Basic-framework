@@ -44,7 +44,7 @@
             @{@"ClassName":@"IOSMessageViewController",@"title":@"消息",@"imageName":@"message_center"},
             @{@"ClassName":@"UIViewController"},
             @{@"ClassName":@"IOSDiscoverViewController",@"title":@"发现",@"imageName":@"discover"},
-        @{@"ClassName":@"IOSPodfileViewController",@"title":@"我",@"imageName":@"profile"}
+    @{@"ClassName":@"IOSPodfileViewController",@"title":@"我",@"imageName":@"profile"}
                    ];
    
     

@@ -7,7 +7,7 @@
 //
 
 #import "IOSBaseViewController.h"
-#import "CZAdditions.h"
+#import "Header.h"
 
 @interface IOSBaseViewController ()
 
@@ -28,13 +28,13 @@
 
 -(void)setUpUI{
  
-    self.view.backgroundColor = [UIColor cz_randomColor];
+    self.view.backgroundColor = [UIColor randomColor];
     // - 添加自定义导航条
     [self.view addSubview:self.navBar];
     // - 是一个数组，要用@[]包着,将Item 置给bar
     _navBar.items = @[self.navItem];
     // - 设置系统导航push的右边白块曝光度
-    _navBar.barTintColor = [UIColor cz_colorWithHex:0xF6F6F6];
+    _navBar.barTintColor = [UIColor colorWithHex:0xF6F6F6];
 }
 #pragma mark  - 懒加载
 -(UINavigationBar *)navBar
