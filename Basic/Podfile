@@ -3,7 +3,8 @@
 target 'Basic' do
   use_frameworks!
 
-  # Pods for Basic
+
+pod 'Basic', '~> 0.0.3'
 
   target 'BasicTests' do
     inherit! :search_paths
